@@ -8,15 +8,12 @@ on this their chosen battle field.
 Form the lines
 <<<<<<< HEAD
 Shield by shield 
-side by side
+form the lines
+shield by shield
 we're marching into destiny
 
 dfgdgdgdfgdfg
 dgdgdfgdfgdfg
 dfgdgfdfgdfg
-dgdgdfgdg
-
--------------------------------
-=======
 >>>>>>> c05577f26755d885187baba4163cd4dd194fd8bd
 >>>>>>> a81d86bf490b78dee6c29fcfea0a6a060d31e2b2
